@@ -1,1 +1,3 @@
-oper
+fn main(){
+  println!("ok");
+}
